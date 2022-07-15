@@ -1,2 +1,2 @@
 # GitHub-Discord-Webhook
-GitHub Discord Webhooks just prettier.
+GitHub Discord Webhooks just prettier. ;)
